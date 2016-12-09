@@ -1,5 +1,7 @@
 var Bee = function() {
 
-  console.log('yee')
+  console.log('yee');
+
+
 };
 
